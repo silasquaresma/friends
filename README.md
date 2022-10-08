@@ -22,3 +22,5 @@ Things you may want to cover:
 * Deployment instructions
 
 * ...
+* Explanation of MVC:
+    View directory contains the webpages.
