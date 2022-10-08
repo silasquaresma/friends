@@ -26,4 +26,4 @@ Things you may want to cover:
     View directory contains the webpages.
 
 
-Testando mais uma vez se esta tudo certo o versionamento entre ubuntu e windows10
+Pelo visto esta tudo ok com versionamento entre gitbash windows e ubuntu!
