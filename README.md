@@ -27,3 +27,4 @@ Things you may want to cover:
 
 
 Pelo visto esta tudo ok com versionamento entre gitbash windows e ubuntu!
+Mexendo no projeto no ubuntu vb!
